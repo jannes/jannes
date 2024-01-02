@@ -1,1 +1,1 @@
-Systems programming is what I am pursuing
+I'm just your average computer enthusiast with particular interest in systems programming and the Rust programming language. Talking about languages, I am also very into learning and practicing Mandarin Chinese, it's a time sink but very rewarding.
