@@ -1,1 +1,5 @@
-I'm just your average computer enthusiast with particular interest in systems programming and the Rust programming language. Talking about languages, I am also very into learning and practicing Mandarin Chinese, it's a time sink but very rewarding.
+Computer science enthusiast focused on systems programming and Rust. 
+Fluent in Mandarin (still practicing daily) and learning Spanish. 
+
+Interests include fitness, Science Fiction, Chinese literature, writing, and HN lurking. 
+Pro-vegan vegetarian.
